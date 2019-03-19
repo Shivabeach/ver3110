@@ -1,0 +1,12 @@
+{
+  "name": "ver3110",
+  "version": "1.0.0",
+  "description": "Learning site",
+  "main": "index.js",
+  "author": "Brad",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
